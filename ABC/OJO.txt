@@ -1,0 +1,6 @@
+pasaporte con huella disponible al no reconocer el rostro solicito la huella y paso con [exito
+
+con documento de gianni me da el error sgsp
+
+los sensores al parecer estan desequilibrados porque al rechazar un pasajero y salir por las puertas de entrada, se muestra la alarma
+objeto abandonado y el inspector muestra el mensaje error inesperado
